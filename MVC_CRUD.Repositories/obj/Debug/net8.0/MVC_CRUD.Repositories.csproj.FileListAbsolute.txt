@@ -1,0 +1,17 @@
+C:\Users\Omar Ahmed\source\repos\MVC_CRUD\MVC_CRUD.Repositories\bin\Debug\net8.0\MVC_CRUD.Repositories.deps.json
+C:\Users\Omar Ahmed\source\repos\MVC_CRUD\MVC_CRUD.Repositories\bin\Debug\net8.0\MVC_CRUD.Repositories.runtimeconfig.json
+C:\Users\Omar Ahmed\source\repos\MVC_CRUD\MVC_CRUD.Repositories\bin\Debug\net8.0\MVC_CRUD.Repositories.dll
+C:\Users\Omar Ahmed\source\repos\MVC_CRUD\MVC_CRUD.Repositories\bin\Debug\net8.0\MVC_CRUD.Repositories.pdb
+C:\Users\Omar Ahmed\source\repos\MVC_CRUD\MVC_CRUD.Repositories\bin\Debug\net8.0\MVC_CRUD.Entities.dll
+C:\Users\Omar Ahmed\source\repos\MVC_CRUD\MVC_CRUD.Repositories\bin\Debug\net8.0\MVC_CRUD.Entities.pdb
+C:\Users\Omar Ahmed\source\repos\MVC_CRUD\MVC_CRUD.Repositories\obj\Debug\net8.0\MVC_CRUD.Repositories.csproj.AssemblyReference.cache
+C:\Users\Omar Ahmed\source\repos\MVC_CRUD\MVC_CRUD.Repositories\obj\Debug\net8.0\MVC_CRUD.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar Ahmed\source\repos\MVC_CRUD\MVC_CRUD.Repositories\obj\Debug\net8.0\MVC_CRUD.Repositories.AssemblyInfoInputs.cache
+C:\Users\Omar Ahmed\source\repos\MVC_CRUD\MVC_CRUD.Repositories\obj\Debug\net8.0\MVC_CRUD.Repositories.AssemblyInfo.cs
+C:\Users\Omar Ahmed\source\repos\MVC_CRUD\MVC_CRUD.Repositories\obj\Debug\net8.0\MVC_CRUD.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Omar Ahmed\source\repos\MVC_CRUD\MVC_CRUD.Repositories\obj\Debug\net8.0\MVC_CRUD.E79048FC.Up2Date
+C:\Users\Omar Ahmed\source\repos\MVC_CRUD\MVC_CRUD.Repositories\obj\Debug\net8.0\MVC_CRUD.Repositories.dll
+C:\Users\Omar Ahmed\source\repos\MVC_CRUD\MVC_CRUD.Repositories\obj\Debug\net8.0\refint\MVC_CRUD.Repositories.dll
+C:\Users\Omar Ahmed\source\repos\MVC_CRUD\MVC_CRUD.Repositories\obj\Debug\net8.0\MVC_CRUD.Repositories.pdb
+C:\Users\Omar Ahmed\source\repos\MVC_CRUD\MVC_CRUD.Repositories\obj\Debug\net8.0\MVC_CRUD.Repositories.genruntimeconfig.cache
+C:\Users\Omar Ahmed\source\repos\MVC_CRUD\MVC_CRUD.Repositories\obj\Debug\net8.0\ref\MVC_CRUD.Repositories.dll

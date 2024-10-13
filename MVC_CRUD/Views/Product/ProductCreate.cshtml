@@ -1,0 +1,102 @@
+﻿@model MVC_CRUD.Entities.Models.Product
+
+@{
+	ViewData["Title"] = "Create New Product";
+}
+
+<h1>Create New Product</h1>
+
+
+<hr />
+<div class="row">
+	<div class="col-md-4">
+		<form asp-action="Create" enctype="multipart/form-data">
+			<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+			
+			<div class="form-group">
+				<label asp-for="ProductName" class="control-label"></label>
+				<input asp-for="ProductName" class="form-control" />
+				<span asp-validation-for="ProductName" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="ProductDescription" class="control-label"></label>
+				<input asp-for="ProductDescription" class="form-control" />
+				<span asp-validation-for="ProductDescription" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="ReorderLevel" class="control-label"></label>
+				<input asp-for="ReorderLevel" class="form-control" />
+				<span asp-validation-for="ReorderLevel" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="Discount" class="control-label"></label>
+				<input asp-for="Discount" class="form-control" />
+				<span asp-validation-for="Discount" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="Price" class="control-label"></label>
+				<input asp-for="Price" class="form-control" />
+				<span asp-validation-for="Price" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="CategoryId" class="control-label"></label>
+				@* <input asp-for="CategoryId" class="form-control" /> *@
+				<select asp-for="CategoryId" class="form-control">
+					<option value="-1">--Select a Category--</option>
+					@{
+						foreach (var item in ViewBag.Categories)
+						{
+							<option value="@item.CategoryId">@item.CategoryName</option>
+						}
+					}
+				</select>
+				<span asp-validation-for="CategoryId" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="SupplierId" class="control-label"></label>
+				@* <input asp-for="SupplierId" class="form-control" />*@
+
+				<select asp-for="SupplierId" class="form-control">
+					<option value="-1">--Select a Supplier--</option>
+					@{
+						foreach (var item in ViewBag.Suppliers)
+						{
+							<option value="@item.SupplierID">@item.SupplierName</option>
+						}
+					}
+				</select>
+				<span asp-validation-for="SupplierId" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="ImageFile" class="control-label"></label>
+				<input asp-for="ImageFile" class="form-control" onchange="loadFile(event)"/>
+				<span asp-validation-for="ImageFile" class="text-danger"></span>
+			</div>
+			<div class="col-md-4 mt-2">
+				<img id="output" width="100%" />
+			</div>
+			<div class="form-group">
+				<input type="submit" value="Create" class="btn btn-primary" />
+			</div>
+		</form>
+	</div>
+</div>
+
+<div>
+	<a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+	@{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+<script>
+	 debugger
+	var loadFile = function (event) {
+		   var output = document.getElementById('output');
+		   output.src = URL.createObjectURL(event.target.files[0]);
+		   output.onload = function () {
+				  URL.revokeObjectURL(output.src)
+		   }
+	}
+</script>

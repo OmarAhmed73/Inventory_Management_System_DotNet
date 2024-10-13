@@ -1,0 +1,54 @@
+﻿@model IEnumerable<MVC_CRUD.Entities.Models.Supplier>
+
+@{
+    ViewData["Title"] = "Suppliers List";
+}
+
+<h1>Suppliers List</h1>
+
+<p>
+    <a asp-action="Create">Create New Supplier</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.SupplierName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SupplierContact)
+            </th>
+
+            <th>
+                Products Name
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.SupplierName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SupplierContact)
+            </td>
+
+
+                <td>
+                    @foreach(var product in item.Products)
+                    {
+                        @Html.DisplayFor(modelItem => product.ProductName)
+                        <br />
+                    }
+                </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.SupplierID }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.SupplierID }) |
+                    @Html.ActionLink("Delete", "Delete", new {  id = item.SupplierID })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

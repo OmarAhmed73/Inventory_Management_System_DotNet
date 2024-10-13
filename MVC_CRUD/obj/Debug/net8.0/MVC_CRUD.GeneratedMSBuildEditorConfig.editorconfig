@@ -1,0 +1,115 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVC_CRUD
+build_property.RootNamespace = MVC_CRUD
+build_property.ProjectDir = C:\Users\Omar Ahmed\source\repos\MVC_CRUD\MVC_CRUD\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Omar Ahmed\source\repos\MVC_CRUD\MVC_CRUD
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Omar Ahmed/source/repos/MVC_CRUD/MVC_CRUD/Views/Category/CategoryCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnlDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar Ahmed/source/repos/MVC_CRUD/MVC_CRUD/Views/Category/CategoryDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnlEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar Ahmed/source/repos/MVC_CRUD/MVC_CRUD/Views/Category/CategoryDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnlEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar Ahmed/source/repos/MVC_CRUD/MVC_CRUD/Views/Category/CategoryEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnlFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar Ahmed/source/repos/MVC_CRUD/MVC_CRUD/Views/Category/CategoryIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnlJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar Ahmed/source/repos/MVC_CRUD/MVC_CRUD/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar Ahmed/source/repos/MVC_CRUD/MVC_CRUD/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar Ahmed/source/repos/MVC_CRUD/MVC_CRUD/Views/Product/ProductCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0Q3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar Ahmed/source/repos/MVC_CRUD/MVC_CRUD/Views/Product/ProductDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0RGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar Ahmed/source/repos/MVC_CRUD/MVC_CRUD/Views/Product/ProductDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar Ahmed/source/repos/MVC_CRUD/MVC_CRUD/Views/Product/ProductEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0RWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar Ahmed/source/repos/MVC_CRUD/MVC_CRUD/Views/Product/ProductList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar Ahmed/source/repos/MVC_CRUD/MVC_CRUD/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar Ahmed/source/repos/MVC_CRUD/MVC_CRUD/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar Ahmed/source/repos/MVC_CRUD/MVC_CRUD/Views/Supplier/SupplierCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcU3VwcGxpZXJDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar Ahmed/source/repos/MVC_CRUD/MVC_CRUD/Views/Supplier/SupplierDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcU3VwcGxpZXJEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar Ahmed/source/repos/MVC_CRUD/MVC_CRUD/Views/Supplier/SupplierDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcU3VwcGxpZXJEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar Ahmed/source/repos/MVC_CRUD/MVC_CRUD/Views/Supplier/SupplierEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcU3VwcGxpZXJFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar Ahmed/source/repos/MVC_CRUD/MVC_CRUD/Views/Supplier/SupplierIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcU3VwcGxpZXJJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar Ahmed/source/repos/MVC_CRUD/MVC_CRUD/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar Ahmed/source/repos/MVC_CRUD/MVC_CRUD/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar Ahmed/source/repos/MVC_CRUD/MVC_CRUD/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-rplj5phx2q

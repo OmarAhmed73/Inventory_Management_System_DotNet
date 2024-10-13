@@ -1,0 +1,12 @@
+C:\Users\Omar Ahmed\source\repos\MVC_CRUD\MVC_CRUD.Entities\bin\Debug\net8.0\MVC_CRUD.Entities.deps.json
+C:\Users\Omar Ahmed\source\repos\MVC_CRUD\MVC_CRUD.Entities\bin\Debug\net8.0\MVC_CRUD.Entities.dll
+C:\Users\Omar Ahmed\source\repos\MVC_CRUD\MVC_CRUD.Entities\bin\Debug\net8.0\MVC_CRUD.Entities.pdb
+C:\Users\Omar Ahmed\source\repos\MVC_CRUD\MVC_CRUD.Entities\obj\Debug\net8.0\MVC_CRUD.Entities.csproj.AssemblyReference.cache
+C:\Users\Omar Ahmed\source\repos\MVC_CRUD\MVC_CRUD.Entities\obj\Debug\net8.0\MVC_CRUD.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar Ahmed\source\repos\MVC_CRUD\MVC_CRUD.Entities\obj\Debug\net8.0\MVC_CRUD.Entities.AssemblyInfoInputs.cache
+C:\Users\Omar Ahmed\source\repos\MVC_CRUD\MVC_CRUD.Entities\obj\Debug\net8.0\MVC_CRUD.Entities.AssemblyInfo.cs
+C:\Users\Omar Ahmed\source\repos\MVC_CRUD\MVC_CRUD.Entities\obj\Debug\net8.0\MVC_CRUD.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Omar Ahmed\source\repos\MVC_CRUD\MVC_CRUD.Entities\obj\Debug\net8.0\MVC_CRUD.Entities.dll
+C:\Users\Omar Ahmed\source\repos\MVC_CRUD\MVC_CRUD.Entities\obj\Debug\net8.0\refint\MVC_CRUD.Entities.dll
+C:\Users\Omar Ahmed\source\repos\MVC_CRUD\MVC_CRUD.Entities\obj\Debug\net8.0\MVC_CRUD.Entities.pdb
+C:\Users\Omar Ahmed\source\repos\MVC_CRUD\MVC_CRUD.Entities\obj\Debug\net8.0\ref\MVC_CRUD.Entities.dll
