@@ -1,0 +1,51 @@
+﻿@model IEnumerable<MVC_CRUD.Entities.Models.Sales>
+
+@{
+    ViewData["Title"] = "Sales List";
+}
+
+<h1>Sales List</h1>
+
+<p>
+    <a asp-action="Create">Insert New Sale</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Product Name
+            </th>
+            <th>
+                Amount Saled
+            </th>
+            <th>
+                Change Amount
+            </th>
+            <th>
+                Delete Record
+            </th>
+            
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.product.ProductName)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AmountSaled)
+            </td>
+           
+            <td>
+                @Html.ActionLink("Change", "Edit", new { id=item.SalesId })
+                    
+            </td>
+            <td>
+                    @Html.ActionLink("Delete", "Delete", new { id = item.SalesId })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

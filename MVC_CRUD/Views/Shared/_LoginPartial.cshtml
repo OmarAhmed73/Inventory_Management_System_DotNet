@@ -1,0 +1,30 @@
+﻿@using MVC_CRUD.Entities.Models
+@using Microsoft.AspNetCore.Identity;
+@inject SignInManager<Users> signInManager;
+
+
+@if (signInManager.IsSignedIn(User))
+
+{
+	<ul class="navbar-nav ms-auto">
+		<li class="nav-item">
+			<button type="button" class="btn btn-danger py-0 px-0">
+				<a class="nav-link text-light" asp-controller="Account" asp-action="Logout">Logout</a>
+			</button>
+		</li>
+		</ul>
+	}
+	else
+	{
+
+	<ul class="navbar-nav ms-auto">
+
+		<li class="nav-item">
+			<a class="nav-link text-dark" asp-controller="Account" asp-action="Login">Login</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link text-dark" asp-controller="Account" asp-action="Register">Register</a>
+		</li>
+	</ul>
+	}
+

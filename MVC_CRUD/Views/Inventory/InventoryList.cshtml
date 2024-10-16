@@ -1,0 +1,49 @@
+﻿@model IEnumerable<MVC_CRUD.Entities.Models.Inventory>
+
+@{
+	ViewData["Title"] = "Inventory List";
+}
+
+<h1>Inventory List</h1>
+
+<p>
+	<a asp-action="Create">Insert Product</a>
+</p>
+<table class="table">
+	<thead>
+		<tr>
+			
+			<th>
+				Product Name
+			</th>
+			<th>
+				Product Amount
+			</th>
+			<th>
+				Date
+			</th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+@foreach (var item in Model) {
+		<tr>
+			  
+			<td>
+				@Html.DisplayFor(modelItem => item.product.ProductName)
+			</td>
+			<td>
+				@Html.DisplayFor(modelItem => item.ProductAmount)
+			</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.LastUpdated)
+				</td>
+			<td>
+				@Html.ActionLink("Edit", "Edit", new {  id=item.InventoryId  }) |
+				@Html.ActionLink("Details", "Details", new { id=item.InventoryId }) |
+				@Html.ActionLink("Delete", "Delete", new { id=item.InventoryId })
+			</td>
+		</tr>
+}
+	</tbody>
+</table>

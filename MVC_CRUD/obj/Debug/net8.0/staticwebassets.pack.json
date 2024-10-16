@@ -9,8 +9,20 @@
       "PackagePath": "staticwebassets\\Images\\ProductsImages\\16d335cb-1788-4767-92b1-d1b5be90d0d3_Witcher (1).jpg"
     },
     {
+      "Id": "C:\\Users\\Omar Ahmed\\source\\repos\\MVC_CRUD\\MVC_CRUD\\wwwroot\\Images\\ProductsImages\\26fc77a0-0b7b-42cb-a109-65282bb166f4_bman_mourns_800_450_81_s.jpg",
+      "PackagePath": "staticwebassets\\Images\\ProductsImages\\26fc77a0-0b7b-42cb-a109-65282bb166f4_bman_mourns_800_450_81_s.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Omar Ahmed\\source\\repos\\MVC_CRUD\\MVC_CRUD\\wwwroot\\Images\\ProductsImages\\29a414ef-0ad6-44fb-b02e-b02eb99cb3aa_Incremental-Model.jpg",
+      "PackagePath": "staticwebassets\\Images\\ProductsImages\\29a414ef-0ad6-44fb-b02e-b02eb99cb3aa_Incremental-Model.jpg"
+    },
+    {
       "Id": "C:\\Users\\Omar Ahmed\\source\\repos\\MVC_CRUD\\MVC_CRUD\\wwwroot\\Images\\ProductsImages\\2e81fc44-e437-4190-a778-af0731e88f13_Cristiano (5).jpg",
       "PackagePath": "staticwebassets\\Images\\ProductsImages\\2e81fc44-e437-4190-a778-af0731e88f13_Cristiano (5).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Omar Ahmed\\source\\repos\\MVC_CRUD\\MVC_CRUD\\wwwroot\\Images\\ProductsImages\\39cd233d-8125-463f-ad3a-160d5b7f5e00_Incremental-Model.jpg",
+      "PackagePath": "staticwebassets\\Images\\ProductsImages\\39cd233d-8125-463f-ad3a-160d5b7f5e00_Incremental-Model.jpg"
     },
     {
       "Id": "C:\\Users\\Omar Ahmed\\source\\repos\\MVC_CRUD\\MVC_CRUD\\wwwroot\\Images\\ProductsImages\\69ec099b-5e1f-4c43-b1b8-61070a4256fa_Cristiano (4).jpg",
@@ -25,8 +37,28 @@
       "PackagePath": "staticwebassets\\Images\\ProductsImages\\7f3444c6-896d-4939-aa7c-8332b7210e06_FB_IMG_1608147363156.jpg"
     },
     {
+      "Id": "C:\\Users\\Omar Ahmed\\source\\repos\\MVC_CRUD\\MVC_CRUD\\wwwroot\\Images\\ProductsImages\\9f19c427-2f8e-44ac-816f-be1c80caf7a9_young-bearded-man-with-striped-shirt.jpg",
+      "PackagePath": "staticwebassets\\Images\\ProductsImages\\9f19c427-2f8e-44ac-816f-be1c80caf7a9_young-bearded-man-with-striped-shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Omar Ahmed\\source\\repos\\MVC_CRUD\\MVC_CRUD\\wwwroot\\Images\\ProductsImages\\c43224d8-b905-468c-8ca3-e4aba3221a3f_House-of-the-Dragon-Aemond-Targaryen.jpg",
+      "PackagePath": "staticwebassets\\Images\\ProductsImages\\c43224d8-b905-468c-8ca3-e4aba3221a3f_House-of-the-Dragon-Aemond-Targaryen.jpg"
+    },
+    {
       "Id": "C:\\Users\\Omar Ahmed\\source\\repos\\MVC_CRUD\\MVC_CRUD\\wwwroot\\Images\\ProductsImages\\d3bea148-676e-4a51-8f84-75aec92dccee_FB_IMG_1640289499289.jpg",
       "PackagePath": "staticwebassets\\Images\\ProductsImages\\d3bea148-676e-4a51-8f84-75aec92dccee_FB_IMG_1640289499289.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Omar Ahmed\\source\\repos\\MVC_CRUD\\MVC_CRUD\\wwwroot\\Images\\ProductsImages\\e113d0e5-a0b6-4146-b89f-72f018d64138_Incremental-Model.jpg",
+      "PackagePath": "staticwebassets\\Images\\ProductsImages\\e113d0e5-a0b6-4146-b89f-72f018d64138_Incremental-Model.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Omar Ahmed\\source\\repos\\MVC_CRUD\\MVC_CRUD\\wwwroot\\Images\\account-bg.jpg",
+      "PackagePath": "staticwebassets\\Images\\account-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Omar Ahmed\\source\\repos\\MVC_CRUD\\MVC_CRUD\\wwwroot\\css\\account.css",
+      "PackagePath": "staticwebassets\\css\\account.css"
     },
     {
       "Id": "C:\\Users\\Omar Ahmed\\source\\repos\\MVC_CRUD\\MVC_CRUD\\wwwroot\\css\\site.css",
